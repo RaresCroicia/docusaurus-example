@@ -1,6 +1,7 @@
 # Docusaurus example
 
-This app was created using `npx create-docusaurus@latest my-website classic`
+- This app was created using `npx create-docusaurus@latest my-website classic`
+- [Official documentation page](https://docusaurus.io/docs)
 
 ## Pros
 
@@ -126,5 +127,5 @@ tags: [Wiki, Infra, We love documentation]
 
 ### Screenshots
 
-![Documentation Example](https://imgur.com/a/2hmj07Y)
-![Blog Example](https://imgur.com/a/HbhPORx)
+![Documentation Example](static/img/doc.png)
+![Blog Example](static/img/blog.png)
